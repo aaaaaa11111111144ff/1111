@@ -6,8 +6,8 @@
         width: '250',
         height: '250',
         scratched: '40',
-        coverImage: 'ok/cover.png',
-        brushImage: 'ok/brush.png'
+        coverImage: 'https://i.imgur.com/YHCOmpN.png',
+        brushImage: 'https://i.imgur.com/gccEG7c.png'
     });
     
     $(document).on('click','.sc-copy', function(e){   
